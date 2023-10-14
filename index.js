@@ -25,3 +25,6 @@ Shery.imageEffect("#back", {
   gooey: true,
 });
 document.getElementById("main").addEventListener("click", () => {});
+
+function abcd(ab) {}
+abcd(function () {});
